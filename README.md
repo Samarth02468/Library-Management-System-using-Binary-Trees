@@ -4,7 +4,9 @@ The main objective of this project is to develop a Library Management System tha
 
 Student's Perspective – Issuing and returning books.
 Admin's Perspective – Adding, updating, and deleting book records.
+
 Admin's Role
+
 Login System:
 
 The admin must log in using a predefined username and password to access the system.
@@ -39,3 +41,4 @@ The system utilizes a Binary Search Tree (BST) to store and search book records 
 Advantages of BST in the system:
 Books are automatically sorted in the tree.
 Searching for a book by name is fast and efficient.
+
